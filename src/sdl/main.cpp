@@ -20,7 +20,7 @@
 #endif
 
 int main(int argc, char* argv[]) {
-	const char* cart = "titlescreen.p8";
+	const char* cart = "../src/titlescreen.p8";
 	const char* out = nullptr;
 
 	bool exportAll = false;
